@@ -35,8 +35,8 @@ http://localhost:5000
 
 ---
 ## Screenshots
-![Flask App in Browser](Screenshots/flask_browser_view.png)  
 ![Docker Container Running](Screenshots/docker_container_running.png)
+![Flask App in Browser](Screenshots/flask_browser_view.png)  
 ![JSON Response](Screenshots/Jsonify_response.png)
 
 
