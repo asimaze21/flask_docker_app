@@ -35,8 +35,8 @@ http://localhost:5000
 
 ---
 ## Screenshots
-![Flask App in Browser](screenshots/flask_browser_view.png)  
-![Docker Container Running](screenshots/docker_container_running.png)
+![Flask App in Browser](Screenshots/flask_browser_view.png)  
+![Docker Container Running](Screenshots/docker_container_running.png)
 
 ## Skills Demonstrated
 - Python programming
