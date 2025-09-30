@@ -7,6 +7,7 @@
 - Simple Flask web app with a homepage
 - Runs consistently in any environment using Docker
 - Exposes port 5000 to access via browser
+-  Returns structured JSON responses using `jsonify`
 
 ## How to Run
 
@@ -42,7 +43,7 @@ http://localhost:5000
 
 ## Skills Demonstrated
 - Python programming
-- Flask web development (routes, request handling)
+- Flask web development (routes, request handling, `jsonify`/JSON responses)
 - Docker containerization
 - Project structuring for professional repositories
 
